@@ -1,0 +1,136 @@
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\csc.exe
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\csc.exe.config
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\csc.rsp
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\csi.exe
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\csi.rsp
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.AppContext.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\vbc.exe
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\vbc.exe.config
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\vbc.rsp
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\TodoList.dll.config
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\TodoList.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\TodoList.pdb
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ataid\Desktop\TodoListSln\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\ataid\Desktop\TodoListSln\TodoList\obj\Debug\TodoList.dll
+C:\Users\ataid\Desktop\TodoListSln\TodoList\obj\Debug\TodoList.pdb
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\csc.exe
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\csc.exe.config
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\csc.rsp
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\csi.exe
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\csi.rsp
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.AppContext.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\vbc.exe
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\vbc.exe.config
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\vbc.rsp
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\TodoList.dll.config
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\TodoList.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\TodoList.pdb
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ataid\Desktop\TodoList2\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\ataid\Desktop\TodoList2\TodoList\obj\Debug\TodoList.dll
+C:\Users\ataid\Desktop\TodoList2\TodoList\obj\Debug\TodoList.pdb
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\csc.exe
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\csc.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\csc.rsp
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\csi.exe
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\csi.rsp
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.AppContext.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\vbc.exe
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\vbc.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\vbc.rsp
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\TodoList.dll.config
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\TodoList.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\TodoList.pdb
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\obj\Debug\TodoList.dll
+C:\Users\Joao Ataide\Desktop\TodoList2\TodoList\obj\Debug\TodoList.pdb
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\csc.exe
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\csc.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\csc.rsp
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\csi.exe
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\csi.rsp
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.AppContext.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\vbc.exe
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\vbc.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\vbc.rsp
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\TodoList.dll.config
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\TodoList.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\TodoList.pdb
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\obj\Debug\TodoList.dll
+C:\Users\Joao Ataide\Desktop\TodoList3\TodoList\obj\Debug\TodoList.pdb
